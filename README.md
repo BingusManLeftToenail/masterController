@@ -1,4 +1,2 @@
 # masterController
-Rename server/tablet/lightController/doorController to startup
-Server must be placed and started before anything else
-Edit doorController and lightController, they're easy to figure out and are important as I don't have any settings UI for them yet
+Remember to rename all files to startup, server must be started FIRST, all of these must be in SEPARATE computers. You MUST use a mobile computer when using the "tablet" file. Remember to edit the controllers (lightController, doorController) before using them.
